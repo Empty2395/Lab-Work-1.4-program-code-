@@ -1,0 +1,8 @@
+D:\C# academi\лаб\CSharp_Net_module1_1_4_lab\CSharp_Net_module1_1_4_lab\bin\Release\CSharp_Net_module1_1_4_lab.exe.config
+D:\C# academi\лаб\CSharp_Net_module1_1_4_lab\CSharp_Net_module1_1_4_lab\bin\Release\CSharp_Net_module1_1_4_lab.exe
+D:\C# academi\лаб\CSharp_Net_module1_1_4_lab\CSharp_Net_module1_1_4_lab\bin\Release\CSharp_Net_module1_1_4_lab.pdb
+D:\C# academi\лаб\CSharp_Net_module1_1_4_lab\CSharp_Net_module1_1_4_lab\obj\Release\CSharp_Net_module1_1_4_lab.csproj.AssemblyReference.cache
+D:\C# academi\лаб\CSharp_Net_module1_1_4_lab\CSharp_Net_module1_1_4_lab\obj\Release\CSharp_Net_module1_1_4_lab.csproj.SuggestedBindingRedirects.cache
+D:\C# academi\лаб\CSharp_Net_module1_1_4_lab\CSharp_Net_module1_1_4_lab\obj\Release\CSharp_Net_module1_1_4_lab.csproj.CoreCompileInputs.cache
+D:\C# academi\лаб\CSharp_Net_module1_1_4_lab\CSharp_Net_module1_1_4_lab\obj\Release\CSharp_Net_module1_1_4_lab.exe
+D:\C# academi\лаб\CSharp_Net_module1_1_4_lab\CSharp_Net_module1_1_4_lab\obj\Release\CSharp_Net_module1_1_4_lab.pdb
